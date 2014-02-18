@@ -1,8 +1,8 @@
 /* line 1, ../sass/style.scss */
 .imgMenu {
   position: relative;
-  width: 670px;
-  height: 200px;
+  width: 870px;
+  height: 400px;
   overflow: hidden;
   margin: 25px 0px 0px;
 }
@@ -12,8 +12,8 @@
   list-style: none;
   margin: 0px;
   display: block;
-  height: 200px;
-  width: 1340px;
+  height: 400px;
+  width: 1540px;
 }
 
 /* line 18, ../sass/style.scss */
@@ -30,7 +30,7 @@
   display: block;
   overflow: hidden;
   width: 78px;
-  height: 200px;
+  height: 400px;
 }
 
 /* line 36, ../sass/style.scss */
@@ -39,7 +39,7 @@
 }
 /* line 42, ../sass/style.scss */
 .imgMenu ul li.people a {
-  background: url(../images/people.jpg) repeat scroll 0%;
+  background: url(../images/de-cara-com-feras.jpg) repeat scroll 0%;
 }
 /* line 48, ../sass/style.scss */
 .imgMenu ul li.nature a {
@@ -52,40 +52,15 @@
 /* line 60, ../sass/style.scss */
 .imgMenu ul li.urban a {
   background: url(../images/urban.jpg) repeat scroll 0%;
-  min-width: 310px;
+  min-width: 510px;
 }
 
-/* line 69, ../sass/style.scss */
-.jimgMenu ul li.landscapes a {
-  background: url(images/landscapes.jpg) repeat scroll 0%;
-}
-
-/* line 73, ../sass/style.scss */
-.jimgMenu ul li.people a {
-  background: url(images/people.jpg) repeat scroll 0%;
-}
-
-/* line 77, ../sass/style.scss */
-.jimgMenu ul li.nature a {
-  background: url(images/nature.jpg) repeat scroll 0%;
-}
-
-/* line 80, ../sass/style.scss */
-.jimgMenu ul li.abstract a {
-  background: url(images/abstract.jpg) repeat scroll 0%;
-}
-
-/* line 84, ../sass/style.scss */
-.jimgMenu ul li.urban a {
-  background: url(images/urban.jpg) repeat scroll 0%;
-}
-
-/* line 89, ../sass/style.scss */
+/* line 70, ../sass/style.scss */
 .clear {
   clear: both;
 }
 
-/* line 93, ../sass/style.scss */
+/* line 74, ../sass/style.scss */
 body {
   margin: 0;
   padding: 0;
