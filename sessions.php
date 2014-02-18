@@ -9,12 +9,12 @@
 // Main Author: Brian Shawa -  bshawa@gmail.com                                      //
 // Help and support please visit http://www.phpmotion.com                            //
 // Copyright reserved                                                                //
-///////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////
 
 
 
 //set username for passing around each php page
-///////////////////////////////////////////////
+////////
 $user_id = $_SESSION["user_id"];
 $user_random_code = $_SESSION["random_code"];
 $user_name = $_SESSION["user_name"];
